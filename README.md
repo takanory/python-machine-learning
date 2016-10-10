@@ -11,3 +11,14 @@ $ pyvenv-3.5 venv
 $ . venv/bin/active
 (venv) $ pip install -r requirements.txt
 ```
+
+## Versions
+
+```
+numpy==1.11.2
+scipy==0.18.1
+scikit-learn==0.18
+pandas==0.19.0
+matplotlib==1.5.3
+jupyter==1.0.0
+```
