@@ -18,8 +18,8 @@ $ . venv/bin/active
 ```
 numpy==1.11.2
 scipy==0.18.1
-scikit-learn==0.18
-pandas==0.19.0
+scikit-learn==0.18.1
+pandas==0.19.1
 matplotlib==1.5.3
 jupyter==1.0.0
 ```
