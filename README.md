@@ -16,7 +16,7 @@ $ . venv/bin/active
 ## Versions
 
 ```
-numpy==1.11.2
+numpy==1.11.3
 scipy==0.18.1
 scikit-learn==0.18.1
 pandas==0.19.1
